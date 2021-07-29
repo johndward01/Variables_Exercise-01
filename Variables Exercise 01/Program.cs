@@ -31,7 +31,7 @@ namespace Variables_Exercise_01
             // - Once finished save, commit, and then push to GitHub!
 
             #region List of C# Value Types https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/value-types
-            //  DATATYPES         |       Size         |                     VALUES                          |
+            //  DATATYPES         |       Size         |                           VALUES                          |
             sbyte _sbyte;               // 8 bit	                      -128 to 127
             byte _byte;                 // 8 bit	                         0 to 255
             short _short;               // 16 bit	                   -32,768 to 32,767
@@ -69,7 +69,6 @@ namespace Variables_Exercise_01
             // TODO: Create your own enum and initialize it with constants of your choosing
             // TODO: Declare it and then iterate through it writing out to the console            
             // TODO: Instantiate a struct and initialize all of it's members
-            // TODO: Create a program that creatively displays all of the variables you have created
 
         }
 
