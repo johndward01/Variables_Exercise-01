@@ -6,8 +6,6 @@ namespace Variables_Exercise_01
     {
         static void Main(string[] args)
         {
-            var myList = new List<object>();
-
             // - Complete all of the TODO's for this exercise
             // - Once finished save, commit, and then push to GitHub!
 
@@ -28,12 +26,6 @@ namespace Variables_Exercise_01
             // TODO: Initialize each of the variables with a value
 
             // TODO: Write out each of the variables to the Console 
-
-
-
-
-
-
         }
 
     }
